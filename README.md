@@ -16,7 +16,7 @@ You can also specify the serial port manually using the --port command-line argu
 ### Interactive mode
 
 **python3 casend.py** - run interactively in autodetect mode
-**python3 casend.py -- port /dev/ttyUSB0** - runs interactively with specified serial port*
+**python3 casend.py -- port /dev/ttyUSB0** - runs interactively with specified serial port
 
 ### Command line mode
 
