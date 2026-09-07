@@ -16,11 +16,13 @@ You can also specify the serial port manually using the --port command-line argu
 ### Interactive mode
 
 **python3 casend.py** - run interactively in autodetect mode
+
 **python3 casend.py -- port /dev/ttyUSB0** - runs interactively with specified serial port
 
 ### Command line mode
 
 **python3 casend.py send examples/RIVER.ASC** - send file examples/RIVER.ASC to pocket computer in autodetect mode
+
 **python3 casend.py receive examples/RIVER.ASC** - receive file to examples/RIVER.ASC to pocket computer in autodetect mode
 
 ## Example
