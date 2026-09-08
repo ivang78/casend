@@ -27,4 +27,5 @@ You can also specify the serial port manually using the --port command-line argu
 
 ## Example
 
-Folder **examples/** contains my homebrew game RIVER RAID. You may use it for testing communication with your pocket computer. Or play for fun. 
+Folder **examples/** contains my homebrew game RIVER RAID in ASCII format, made by Piotr's interface. You may use it for testing communication with your pocket computer. Or play for fun. 
+For converting ASCII files to Basic sources vice versa you may use **list730** and **bas730** from [CASsette IO Utilities](https://www.mvcsys.de/doc/casioutil.html) 
